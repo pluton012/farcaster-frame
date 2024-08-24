@@ -1,0 +1,55 @@
+{
+  "shortDescription": "Test your crypto knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "Which crypto launched earlier?",
+      "answers": ["BTC", "ETH", "ADA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which crypto launched later?",
+      "answers": ["SOL", "DOT", "LTC"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which built on Ethereum?",
+      "answers": ["USDC", "DOT", "BNB"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which built on Solana?",
+      "answers": ["SOL", "RAY", "SUSHI"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a stablecoin?",
+      "answers": ["USDT", "BTC", "ETH"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a DEX?",
+      "answers": ["Uniswap", "Sushi", "Binance"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a layer 2?",
+      "answers": ["MATIC", "BTC", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which uses Proof of Work?",
+      "answers": ["BTC", "ADA", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which uses Proof of Stake?",
+      "answers": ["ADA", "BTC", "LTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a privacy coin?",
+      "answers": ["XMR", "ETH", "DOT"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
